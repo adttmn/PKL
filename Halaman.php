@@ -41,12 +41,6 @@ include 'Connect.php';
 					<span class="link_name">DATA SISWA</span>
 				</a>
 			</li>
-			<!-- <li>
-							<a href="">
-								<i class='bx bx-bar-chart'></i>
-								<span class="link_name">Data</span>
-							</a>
-						</li> -->
 			<li>
 				<a href="logout.php">
 					<i class='bx bx-log-out'></i>
